@@ -1,7 +1,5 @@
-import _ from "lodash"
+import _ from 'lodash';
 
 export default () => {
-
-	console.log(_.now())
-
-}
+  console.log(_.now());
+};

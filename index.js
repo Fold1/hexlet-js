@@ -1,3 +1,3 @@
-import getDate from "./src/index.js"
+import getDate from './src/index.js';
 
-getDate()
+getDate();
